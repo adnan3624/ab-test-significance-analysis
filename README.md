@@ -143,6 +143,6 @@ ab-test-significance-analysis/
 
 ## Contact
 
-**LinkedIn:** linkedin.com/in/adnan  
+**LinkedIn:** linkedin.com/in/adnan3624 
 **Fiverr:** fiverr.com/adnan  
 **Upwork:** upwork.com/adnan
